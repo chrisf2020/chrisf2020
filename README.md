@@ -89,6 +89,3 @@ Location     Lehigh County, PA
 
 ---
 
-## GitHub Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisf2020&show_icons=true&theme=default)
