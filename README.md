@@ -1,4 +1,4 @@
-# Chris Frias
+# Christopher Frias
 
 **Computer Science Student @ Kutztown University of Pennsylvania**
 
